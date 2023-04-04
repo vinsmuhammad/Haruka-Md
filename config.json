@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["628813917475@s.whatsapp.net","62887435047326@s.whatsapp.net"],
+    "ownerName": "GarVinCG",
     "instagram" : "https://instagram.com/zeeoneofc",
     "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "botName": "AzurFlane Bot Beta ",
     "footer": "api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -18,13 +18,13 @@
     "antiDelete": false,
     "autobio": false,
     "anticall": true,
-    "autorespond": false,
-    "autoblok212": true,
+    "autorespond": true,
+    "autoblok212": false,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 10000,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 100000,
+        "user": 10000
     }
 }
