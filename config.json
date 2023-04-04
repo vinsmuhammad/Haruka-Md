@@ -13,7 +13,7 @@
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true, 
-    "antiViewOnce": true,
+    "antiViewOnce": false,
     "grupOnly": false,
     "antiDelete": false,
     "autobio": false,
