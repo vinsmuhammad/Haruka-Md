@@ -8,7 +8,7 @@
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
-    "BotKey": "your key",
+    "BotKey": "5dLhNR8GOHMK3QN",
     "OpenAIKey": "your openai key",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": true,
